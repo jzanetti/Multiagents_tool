@@ -1,4 +1,4 @@
-DATA_PATH = {"leaft": "etc/leaft_data_v2.0.xlsx"}
+DATA_PATH = {"leaft": "etc/data/leaft_data_v2.0.xlsx"}
 
 
 DASHBOARD_STYLE = {
