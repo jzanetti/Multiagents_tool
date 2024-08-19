@@ -1,0 +1,24 @@
+{
+    "editor.formatOnSave": true,
+    "git.autofetch": true,
+    "isort.args": [
+        "--profile",
+        "black"
+    ],
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        },
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.showUnused": false,
+    },
+    "python.analysis.extraPaths": [
+        "/home/zhangs/Github/Multiagents_tool"
+    ],
+    "python.testing.pytestArgs": [
+        "lib"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
